@@ -12,7 +12,7 @@ public class Program {
 		Department obj = new Department(1, "Books");
 		Seller seller = new Seller(13,"Bruno","bruno@gmail",new Date(), 3000.0, obj );
 		
-		
+		// comment
 		System.out.println(seller);
 	}
 
